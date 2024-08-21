@@ -2,7 +2,7 @@
 
 | Naam         | Voornaam  | Klasgroep | Github-gebruikersnaam                   |
 | :----------- | :-------- | :-------- | :-------------------------------------- |
-| Velghe | Emile | G2.A4     | [UserName](https://github.com/Velghe0207) |
+| Velghe | Emile | G2.A4     | [Velghe0207](https://github.com/Velghe0207) |
 
 Deze Github-repository bevat al de nodige informatie i.v.m. de paper die je voor het vak Research Methods moet voorbereiden en schrijven. 
 
